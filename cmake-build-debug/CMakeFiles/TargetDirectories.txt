@@ -1,0 +1,3 @@
+/home/onursefa/Desktop/322 pr 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/onursefa/Desktop/322 pr 2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/onursefa/Desktop/322 pr 2/cmake-build-debug/CMakeFiles/322_pr_2.dir

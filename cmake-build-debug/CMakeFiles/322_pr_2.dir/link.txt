@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/322_pr_2.dir/main.cpp.o  -o 322_pr_2 
